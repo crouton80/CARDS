@@ -1,1 +1,1 @@
-Bootstrap cards
+A personal CARD generated with bootstrap
