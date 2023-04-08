@@ -1,3 +1,1 @@
-A personal CARD generated with bootstrap
-
-bla bla bla
+A personal card built with HTML5,bootstrap and a little CSS 
